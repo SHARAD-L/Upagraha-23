@@ -3584,7 +3584,7 @@ td img{
     }
     
     .nav-link:hover::before {
-      width: 70%;
+      width: 25%;
     }
   
     .theme-toggler{
