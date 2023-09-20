@@ -3619,7 +3619,7 @@ td img{
     display: flex;
     justify-content: center;
     align-items: top;
-    height: 80vh;
+    height: 85vh;
     width: 100vw;
     background-attachment:fixed;
     background-repeat: no-repeat;
@@ -3689,9 +3689,9 @@ td img{
   #timer{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
-    /* margin-top: -200px; */
+    margin-top:100px;
     height: auto;
   }
   
