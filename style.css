@@ -4816,6 +4816,13 @@ span{
       align-items: center;
       text-align: center;
     }
+
+    #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
   
     #foot-content{
       display: flex;
@@ -5100,6 +5107,13 @@ span{
       color: white;
       text-decoration: none;
     }
+
+    #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
   
   }
 
@@ -5301,6 +5315,13 @@ span{
       margin-left: -3px;
       width: 290px;
       height: 200px;
+    }
+
+  #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
   
   }
