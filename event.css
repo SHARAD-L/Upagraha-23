@@ -1632,7 +1632,14 @@ nav ul{
           display: flex;
           color: white;
         }
-      
+
+        #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      }
+        
         #foot-content{
           display: flex;
           flex-direction: column;
@@ -1780,6 +1787,12 @@ nav ul{
         width: 300px;
         height: 500px;
       }
+        #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
     }
 
     @media only screen and (max-width:320px){
@@ -1888,4 +1901,10 @@ nav ul{
         height: 200px;
         padding-bottom: 10px;
       }
+        #footed{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
     }
