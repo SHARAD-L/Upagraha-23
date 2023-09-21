@@ -59,7 +59,7 @@ function myFunction(x) {
 
 
 
-      var countDownDate = new Date("Oct 13,2023 00:00:00:00").getTime();
+      var countDownDate = new Date("Oct 11,2023 00:00:00:00").getTime();
       console.log(countDownDate);
       var x = setInterval(function () {
         var now = new Date().getTime();
