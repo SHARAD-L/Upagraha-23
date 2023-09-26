@@ -1125,7 +1125,7 @@ td img{
     height: 40px;
     font-size: 18px;
     border: none;
-    background-color: var(--color-button);
+    background-color: #fff;
     border-radius: 20px;
   } 
  
@@ -1809,7 +1809,7 @@ td img{
         height: 40px;
         font-size: 16px;
         border: none;
-        background-color: var(--color-button);
+        background-color: #fff;
         border-radius: 20px;
       } 
       
@@ -2526,7 +2526,7 @@ td img{
     height: 40px;
     font-size: 18px;
     border: none;
-    background-color: var(--color-button);
+    background-color: #fff;
     border-radius: 20px;
   } 
   
@@ -3198,7 +3198,7 @@ td img{
     height: 40px;
     font-size: 16px;
     border: none;
-    background-color: var(--color-button);
+    background-color: #fff;
     border-radius: 20px;
   } 
   
@@ -3849,7 +3849,7 @@ td img{
     height: 40px;
     font-size: 16px;
     border: none;
-    background-color: var(--color-button);
+    background-color: #fff;
     border-radius: 20px;
   } 
   
@@ -4507,7 +4507,7 @@ span{
     height: 40px;
     font-size: 16px;
     border: none;
-    background-color: var(--color-button);
+    background-color: #fff;
     border-radius: 20px;
   } 
   
