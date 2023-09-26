@@ -438,7 +438,7 @@ width: 50%;
   height: 40px;
   font-size: 18px;
   border: none;
-  background-color: var(--color-button);
+  background-color: #fff;
   border-radius: 20px;
 } 
 
