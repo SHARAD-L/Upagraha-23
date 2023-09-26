@@ -1623,6 +1623,7 @@ nav ul{
         #footed{
       width: 100%;
       display: flex;
+      flex-direction:column;
       justify-content: center;
       align-items: center;
       }
@@ -1777,6 +1778,7 @@ nav ul{
         #footed{
       width: 100%;
       display: flex;
+      flex-direction:column;
       justify-content: center;
       align-items: center;
     }
@@ -1891,6 +1893,7 @@ nav ul{
         #footed{
       width: 100%;
       display: flex;
+      flex-direction:column;
       justify-content: center;
       align-items: center;
     }
